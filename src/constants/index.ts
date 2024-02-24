@@ -25,7 +25,7 @@ import {
   starbucks,
   tesla,
   shopify,
-  tripguide,
+ 
   cplus,
   python,
   movie,
