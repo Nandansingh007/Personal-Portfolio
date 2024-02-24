@@ -46,7 +46,7 @@ export const config: TConfig = {
   },
   hero: {
     name: 'Nandan Singh',
-    p: ['I am machine learning and data analyst expert'],
+    p: ['I am data engineer and data science expert'],
   },
   contact: {
     p: 'Get in touch',
