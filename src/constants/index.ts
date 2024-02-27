@@ -148,7 +148,7 @@ const experiences: TExperience[] = [
     companyName: 'Wiseyak Inc',
     icon: starbucks,
     iconBg: '#383E56',
-    date: 'March 2020 - April 2021',
+    date: 'Dec 2023 - Current',
     points: [
       'Segmentation using Statistical and Clustering Approach',
       'Customer Segmentation using RMF Analysis',
@@ -160,7 +160,7 @@ const experiences: TExperience[] = [
     companyName: 'PMsquare',
     icon: tesla,
     iconBg: '#E6DEDD',
-    date: 'Jan 2021 - Feb 2022',
+    date: 'Oct 2023 - Dec 2023',
     points: [
       'End to End Retail ETL task using AWS Glue,Athena',
       'RAG Chatbot Using LLMs,Langchain',
@@ -173,7 +173,7 @@ const experiences: TExperience[] = [
     companyName: 'Code For Nepal',
     icon: shopify,
     iconBg: '#383E56',
-    date: 'Jan 2022 - Jan 2023',
+    date: 'Aug 2023 - Oct 2023',
     points: [
       'End to End Knowledge graph building using NLP library Spacy,NLTK',
       'Customer Churn Prediction using Scikit-learn , MLflow',
@@ -186,7 +186,7 @@ const experiences: TExperience[] = [
     companyName: 'Gritfeat Solutions',
     icon: meta,
     iconBg: '#E6DEDD',
-    date: 'Jan 2023 - Present',
+    date: 'May 2023 - Aug 2023',
     points: [
       'Data Modeling ,forecasting and building full ETL pipeline of weather API data using Databricks',
       'Data Transformation in Snowflake using DBT',
@@ -246,7 +246,7 @@ const projects: TProject[] = [
       },
     ],
     image: movie,
-    sourceCodeLink: 'https://github.com/',
+    sourceCodeLink: 'https://github.com/Nandansingh007/Movie-Recommendation-System',
   },
   {
     name: 'Nepali Fake news Detection',
@@ -268,7 +268,7 @@ const projects: TProject[] = [
       },
     ],
     image: fakeNews,
-    sourceCodeLink: 'https://github.com/',
+    sourceCodeLink: 'https://github.com/Nandansingh007/Nepali-Fake-News-Detection-Using-BERT-Model-and-Source-Checking',
   },
   {
     name: 'Expense Tracker Django powered web app',
@@ -289,7 +289,7 @@ const projects: TProject[] = [
       },
     ],
     image: expense,
-    sourceCodeLink: 'https://github.com/',
+    sourceCodeLink: 'https://github.com/Nandansingh007/Expense-Tracker',
   },
   {
     name: 'Soduko solver',
@@ -301,7 +301,7 @@ const projects: TProject[] = [
       },
     ],
     image: sudoko,
-    sourceCodeLink: 'https://github.com/',
+    sourceCodeLink: 'https://github.com/Nandansingh007/soduko_game',
   },
 ];
 

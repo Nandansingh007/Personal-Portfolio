@@ -41,12 +41,12 @@ type TConfig = {
 export const config: TConfig = {
   html: {
     title: 'Nandan',
-    fullName: 'Nandhan Singh',
-    email: 'nanduvai@mail.com',
+    fullName: 'Nandan Singh',
+    email: 'nandan.singhs@gmail.com',
   },
   hero: {
     name: 'Nandan Singh',
-    p: ['I am data engineer and data science expert'],
+    p: ['I am data engineer with experience in SQL, Python and Cloud Platfrom like AWS and Azure.'],
   },
   contact: {
     p: 'Get in touch',
@@ -67,7 +67,7 @@ export const config: TConfig = {
     about: {
       p: 'Introduction',
       h2: 'Overview.',
-      content: `I don't just code, I decode! As a machine learning and data analyst, I translate raw data into actionable insights using Python, R, and cloud platforms. Leverage my expertise in algorithms, data visualization, and collaboration to uncover patterns, predict trends, and automate tasks. Let's turn your data into a competitive advantage!`,
+      content: `I don't just code, I decode! As a data engineer, I translate raw data into actionable insights using Python, R, and cloud platforms. Leverage my expertise in algorithms, data visualization, and collaboration to uncover patterns, predict trends, and automate tasks. Let's turn your data into a competitive advantage!`,
     },
     experience: {
       p: 'What I have done so far',
