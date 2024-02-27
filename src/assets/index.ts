@@ -21,10 +21,11 @@ import tailwind from './tech/tailwind.png';
 import typescript from './tech/typescript.png';
 import threejs from './tech/threejs.svg';
 
-import meta from './company/meta.png';
-import shopify from './company/shopify.png';
-import starbucks from './company/starbucks.png';
-import tesla from './company/tesla.png';
+import meta from './company/gritfeat.png';
+import shopify from './company/codeforNepal.jpg';
+import starbucks from './company/wiseyak.png'; //changing the starbuck to wiseyak
+import tesla from './company/pmsquare.png';
+//import wiseyak from './company/wiseyak.png';
 
 import jobit from './jobit.png';
 import tripguide from './tripguide.png';
